@@ -1,0 +1,7 @@
+Juvix
+
+*.anoma *.wasm _build/ *.o
+
+Ostalo
+
+*.log
